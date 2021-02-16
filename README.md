@@ -3,6 +3,10 @@
 Time to get hands on with Node.js development! Today, you'll create and deploy a web server using CI and CD and get used to the general process of building and deploying servers, and prepping your work for grading
 
 ## The Setup
+1. git clone https://github.com/JasonDormier/server-deployment-practice.git
+1. npm install express supertest dotenv jest
+1. create .env file and set PORT=3000
+1 to test locally use nodemon, npm install -g nodemon if nodemon is not installed.
 
 ### Github
 
@@ -71,3 +75,5 @@ In Canvas, submit a link to your completed `README.md` file from the `main` bran
  [Deployed heroku link](https://jasond-server-deploy-prod.herokuapp.com/)
  
 [github actions](https://github.com/JasonDormier/server-deployment-practice/actions)
+
+[main repo since no branches were used](https://github.com/JasonDormier/server-deployment-practice)
