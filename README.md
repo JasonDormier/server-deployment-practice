@@ -6,10 +6,10 @@ Time to get hands on with Node.js development! Today, you'll create and deploy a
 -Getting started
    1. git clone https://github.com/JasonDormier/server-deployment-practice.git
    1. npm install express supertest dotenv jest
-   1. create .env file and set PORT=<varible>
-   1. to test locally use nodemon, npm install -g nodemon if nodemon is not installed.
+   1. create .env file and set `PORT=3000` or a port of your choosing
+   1. to test locally use nodemon, npm install -g nodemon if nodemon is not installed
 -Testing
-   1. run command <`npm test`> from root directory in your terminal. 
+   1. run command `npm test` from root directory in your terminal 
   
 ### Github
 
