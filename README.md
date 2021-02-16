@@ -75,7 +75,7 @@ In Canvas, submit a link to your completed `README.md` file from the `main` bran
 
  Refer to the the [Submitting Standard Node.js Lab Submission Instructions](../../../reference/submission-instructions/labs/node-apps.md) for a review of the complete lab submission process and expectations
 
- ### Deployed Link
+ ### Deployed Links
  [Deployed heroku link](https://jasond-server-deploy-prod.herokuapp.com/)
  
 [github actions](https://github.com/JasonDormier/server-deployment-practice/actions)
