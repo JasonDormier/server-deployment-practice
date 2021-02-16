@@ -3,11 +3,14 @@
 Time to get hands on with Node.js development! Today, you'll create and deploy a web server using CI and CD and get used to the general process of building and deploying servers, and prepping your work for grading
 
 ## The Setup
-1. git clone https://github.com/JasonDormier/server-deployment-practice.git
-1. npm install express supertest dotenv jest
-1. create .env file and set PORT=3000
-1 to test locally use nodemon, npm install -g nodemon if nodemon is not installed.
-
+-Getting started
+   1. git clone https://github.com/JasonDormier/server-deployment-practice.git
+   1. npm install express supertest dotenv jest
+   1. create .env file and set PORT=<varible>
+   1. to test locally use nodemon, npm install -g nodemon if nodemon is not installed.
+-Testing
+   1. run command <`npm test`> from root directory in your terminal. 
+  
 ### Github
 
 1. Create a new repository at GitHub, called `server-deployment-practice`
